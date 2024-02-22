@@ -1,0 +1,9 @@
+{
+  "short_name": "Timeline Challenge",
+  "name": "Timeline Challenge for Prediktive",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
